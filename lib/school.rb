@@ -16,7 +16,8 @@ class School
   end 
   
   def sort 
-    sorted_students = []
+    sorted_students = {}
+    
     
   end 
   
